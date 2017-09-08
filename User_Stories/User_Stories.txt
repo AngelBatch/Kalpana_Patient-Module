@@ -1,0 +1,35 @@
+1.Registration
+
+As a new patient I should be able to "Register" myself to the patient portal. 
+I need to register to perform activities like scheduling an appointment with the doctor, pay my fees and look at my medical and transcation history.
+
+2.Login
+
+As a patient I should be able to login into my	patient portal.  
+I need to login to perform my secured activities like pay my fees, scheduling an appintment with the doctor and track my medical records.
+
+
+3.Sechedule Appointment
+
+As a patient I should be able to schedule an appointment with a desired doctor.
+ 
+4.Search Symptoms
+
+As a patient I should be able to serach for my symptoms so that I will know more about my illness.
+
+5.Past Transactions 
+
+As a patient I should have the ability to check my past transactions so that I can keep track of my payments.
+ 
+6.Past Reports
+
+As a patient I should be able to check my past reports so that I can compare my medical history.
+ 
+ 
+ 
+ 
+ 
+
+
+
+

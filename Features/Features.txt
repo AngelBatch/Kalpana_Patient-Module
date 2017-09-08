@@ -1,0 +1,48 @@
+                     Features of Patient Module.
+
+1. Register
+
+The following url takes the user to the Registration form.
+http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/registration.php
+
+User needs to enter their personal and account details to get registered to perform the activities like pay the fees, schedule appointments and track past transactions and reports. 
+once the user is registered, he/she will get the userid and password to get in to the website.
+
+2.Login
+ 
+The following url takes the user to the Login page.
+http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/login.php
+
+Login page lets the user enter the userid and password to get access into the website.
+User can perform the secured activities after he/she logs into the site.
+
+3.Schedule Appointment
+
+The following url takes the user to the page where he/she can schedule an appointment for the provider.
+http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/sheduleappointments.php
+
+4.Search Symptoms
+
+The following url takes the user to the page where he/she can find about the illness by entering the symptoms.
+http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/searchsymptoms.php
+
+5.History
+
+The following url takes the user to the page where he/she can check the past transactions, past appointments, past diagnosis and past prescriptions.
+http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/viewhistory.php#
+
+
+6.Past Reports
+
+The following url leads the user to the Reports page where he/she is able to check the past medical reports. 
+http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/viewreports.php
+
+
+
+
+
+
+
+
+
+
